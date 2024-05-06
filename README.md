@@ -1,6 +1,7 @@
-# GUI-Based-Messanger
-A project based on java using Graphical user interface
- 
-A GUI(Graphical user interface) based messenger, which has an option to create a new account. To signi, enter user login credentials. After successful logging, user can see few static friends and chat boxes to send a text message. To do this here we are using javax and other java packages. 
-A downloadable and executable .jar file is created to demonstrate the project.
--thankyou
+This project implements a desktop messenger application using Java's Graphical User Interface (GUI) libraries. It offers core functionalities for casual communication:
+
+User Management: Users can create new accounts for secure access. Existing users can login with their credentials.
+Friend List and Chat Interface: Upon successful login, users can view a pre-defined static list of "friends." Each friend entry is linked to a chat window, allowing users to send and receive text messages.
+Java Development Environment: The application is built using Java and its standard library (javax) for core functionalities. Additional Java packages may be utilized for specific functionalities.
+Deliverable: The project will be delivered as a downloadable and executable JAR file, providing a standalone application for users.
+ Note: This is a basic messenger with limited features. Future iterations can be developed to incorporate features like dynamic friend lists, user search functionalities, richer message formatting, and file transfer capabilities.
