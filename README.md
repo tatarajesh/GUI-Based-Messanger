@@ -1,6 +1,6 @@
 # GUI-Based-Messanger
-A project based on java.
+A project based on java using Graphical user interface
  
-GUI based program looks like a messenger, which has an option to create a new account. After signing up, which takes user login credentials to login. After successful logging, user will can see few static friends and chat boxes to send a text. In this we are using javax and other few packages to create a static messanger.
-A downloadable and executable .jar is created to demonstrate.
+A GUI(Graphical user interface) based messenger, which has an option to create a new account. To signi, enter user login credentials. After successful logging, user can see few static friends and chat boxes to send a text message. To do this here we are using javax and other java packages. 
+A downloadable and executable .jar file is created to demonstrate the project.
 -thankyou
